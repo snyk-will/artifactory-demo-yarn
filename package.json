@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "1.0.1",
+  "description": "TBD",
+  "homepage": "https://snyk.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirw-snyk/artifactory-integration-demo"
+  },
+  "dependencies": {
+    "adm-zip": "0.4.11",
+    "ejs": "1.0.0",
+    "express": "4.12.4",
+    "jquery": "^2.2.4",
+    "lodash": "4.17.21",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "nodemon": "^2.0.7",
+    "snyk": "^1.244.0"
+  },
+  "license": "Apache-2.0"
+}
