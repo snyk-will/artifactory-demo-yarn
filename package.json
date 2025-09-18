@@ -10,7 +10,7 @@
   "dependencies": {
     "adm-zip": "0.4.11",
     "ejs": "1.0.0",
-    "express": "4.12.4",
+    "express": "4.14.0",
     "jquery": "^2.2.4",
     "lodash": "4.17.21",
     "validator": "^13.5.2"
